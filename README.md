@@ -25,7 +25,7 @@ var demo = require('nodedemoapp');
 demo.hello('GitHub');
 ```
 
-Don't forget to install the module before executing test.js
+Don't forget to install the module before executing ```node test.js```
 ```
 npm install nodedemoapp
 ```
