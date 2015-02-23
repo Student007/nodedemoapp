@@ -1,0 +1,25 @@
+{
+  "name": "nodedemoapp",
+  "version": "0.0.1",
+  "description": "This App is made to show steps to go for your own npm install",
+  "main": "server.js",
+  "author": "Student007",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Student007/nodedemoapp.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "demo"
+  ],
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/Student007/nodedemoapp/issues"
+  },
+  "homepage": "https://github.com/Student007/nodedemoapp"
+}
