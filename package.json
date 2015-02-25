@@ -6,7 +6,7 @@
   "author": "Student007",
   "license": "MIT",
   "scripts": {
-    "start": "for f in tests/*; do echo \"$\f"; node \"$f\"; done; echo 'Test state is OK'; exit 0"
+    "test": "for f in tests/*; do echo \"$\f"; node \"$f\"; done; echo 'Test state is OK'; exit 0"
   },
   "repository": {
     "type": "git",
