@@ -1,5 +1,3 @@
-module.exports = {
-	hello:	function(who){
+exports.hello = function(who){
 		console.log('Hello '+who);	
-	}
-};
+	};
