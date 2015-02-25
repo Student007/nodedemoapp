@@ -1,3 +1,4 @@
 exports.hello = function(who){
-		console.log('Hello '+who);	
+		var ret = 'Hello '+who;
+		return ret;
 	};
