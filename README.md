@@ -33,7 +33,7 @@ npm install nodedemoapp
 Or you could add a dependancy to your package.json
 ```
 "dependencies": {
-    "nodedemoapp": "^0.0.1",
+    "nodedemoapp": "^0.0.1"
 }
 
 ```
