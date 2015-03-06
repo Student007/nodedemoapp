@@ -1,6 +1,6 @@
 {
   "name": "nodedemoapp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This App is made to show steps to go for your own npm install",
   "main": "server.js",
   "author": "Student007",
