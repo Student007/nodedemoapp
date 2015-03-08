@@ -58,3 +58,13 @@ will be executed
     "test": "for f in tests/*; do echo \"$f\"; node \"$f\"; done; echo 'Test state is OK'; exit 0"
   },
 ```
+In our example test case it executes code of tests/requireModueTest.js 
+```
+var mod = require('../server.js');
+try {
+	mod.hello('Testing User - Method exists (Test successful)');
+}
+catch (err){
+	console.log('something doesn\'t work well (Test failed)');
+}
+```
