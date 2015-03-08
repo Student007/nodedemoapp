@@ -33,8 +33,23 @@ npm install nodedemoapp
 Or you could add a dependancy to your package.json
 ```
 "dependencies": {
-    "nodedemoapp": "^0.0.3"
+    "nodedemoapp": "0.0.3"
 }
 
 ```
 and install your app by ```npm install``` within your directory
+
+# Testing
+
+To test whether the module works itself you can download the archive, extract the zip and execute the following with the created folder:
+```
+npm test
+```
+
+Because of the scripts part within package.json the bash script ```test```
+will be executed 
+```
+"scripts": {
+    "test": "for f in tests/*; do echo \"$f\"; node \"$f\"; done; echo 'Test state is OK'; exit 0"
+  },
+```
