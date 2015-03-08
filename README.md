@@ -9,7 +9,8 @@ Shows the world the steps to go to get proud to have your own ```npm install nod
 3) Create a package.json (you can use the ```npm init``` command what walks you through)
 
 4) Create a server.js including the planed module
- ```exports.hello = function(who){
+```
+ exports.hello = function(who){
 		console.log('Hello '+who);
 	};
 ```
