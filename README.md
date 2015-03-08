@@ -2,17 +2,21 @@
 
 Shows the world the steps to go to get proud to have your own ```npm install nodedemoapp```
 
-1) Create a package.json and commit it to this repository
+1) Create a NPM Account either by ```npm adduser``` or at https://npmjs.org/signup
 
-2) Create a server.js within ```console.log('Hello GitHub')```
+2) login by ```npm login``` 
 
-3) Create a NPM Account either by ```npm adduser``` or at https://npmjs.org/signup
+3) Create a package.json (you can use the ```npm init``` command what walks you through)
 
-4) login by ```npm login``` 
+4) Create a server.js including the planed module
+ ```exports.hello = function(who){
+		console.log('Hello '+who);
+	};
+```
 
-5) change directory where your ```package.json``` is located
+5) commit it to your repository 
 
-6) ```npm init``` or ```npm publish```
+6) where your ```package.json``` is located execute ```npm publish```
 
 If you see ```+nodedemoapp``` you have done well :-)
 
