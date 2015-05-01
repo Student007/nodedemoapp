@@ -4,7 +4,7 @@ Shows the world the steps to go to get proud to have your own ```npm install nod
 
 1) Create a new project on https://github.com/new
 
-2) Clone your new repository by downloading/unzip or ```git clone yourGithubUserName@github.com:yourGithubUserName/repositoryName.git```
+2) Clone your new repository by downloading/unzip or ```git clone git@github.com:yourGithubUserName/repositoryName.git```
 
 3) Create a NPM Account either by ```npm adduser``` or at https://npmjs.org/signup
 
