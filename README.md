@@ -1,3 +1,4 @@
+![Test state](https://travis-ci.org/Student007/nodedemoapp.svg?branch=master)
 # Node Demo App
 
 Shows the world the steps to go to get proud to have your own ```npm install nodedemoapp```
@@ -73,4 +74,3 @@ catch (err){
 	console.log('something doesn\'t work well (Test failed)');
 }
 ```
-You can use Travis to test against different Node.js/io.js versions.
