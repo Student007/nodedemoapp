@@ -1,4 +1,4 @@
-![Test state](https://travis-ci.org/Student007/nodedemoapp.svg?branch=master)
+[![Build Status](https://travis-ci.org/Student007/nodedemoapp.svg?branch=master)](https://travis-ci.org/Student007/nodedemoapp)
 # Node Demo App
 
 Shows the world the steps to go to get proud to have your own ```npm install nodedemoapp```
