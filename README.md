@@ -73,3 +73,4 @@ catch (err){
 	console.log('something doesn\'t work well (Test failed)');
 }
 ```
+You can use Travis to test against different Node.js/io.js versions.
