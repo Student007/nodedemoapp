@@ -21,7 +21,7 @@ Shows the world the steps to go to get proud to have your own ```npm install nod
 	};
 ```
 
-7) commit it to your repository 
+7) commit it to your repository by `git add *`, `git commit -m "your comment"` and `git push origin master`
 
 8) where your ```package.json``` is located execute ```npm publish```
 
