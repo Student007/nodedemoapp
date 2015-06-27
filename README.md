@@ -27,6 +27,10 @@ Shows the world the steps to go to get proud to have your own ```npm install nod
 
 If you see ```+nodedemoapp``` you have done well :-)
 
+9) If you like to change the readme on npmjs.com, you need to change the version in `package.json`, `git commit -m "..."`, `git push origin master` and run `npm publish`
+
+If you see e.g. `+ nodedemoapp@1.0.1` you have done well :-)
+
 
 # Try it
 
