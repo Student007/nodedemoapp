@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Student007/nodedemoapp.png?label=ready&title=Ready)](https://waffle.io/Student007/nodedemoapp)
 [![Build Status](https://travis-ci.org/Student007/nodedemoapp.svg?branch=master)](https://travis-ci.org/Student007/nodedemoapp)
 # Node Demo App
 
