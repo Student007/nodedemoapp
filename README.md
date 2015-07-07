@@ -79,3 +79,18 @@ catch (err){
 	console.log('something doesn\'t work well (Test failed)');
 }
 ```
+
+# Reporting
+It is recommended to show badges and graphs about activities and state of the progress behind the module or library. If you like to have badges and shields in the same fitting size you can go to http://shields.io/ or use their new [tool](https://github.com/badges/badgerbadgerbadger).
+
+A collection of badges you can find [here](https://github.com/boennemann/badges).
+
+Professionals are working with (agile) project management frameworks. So you also could use scrum directly within your GitHub by [Waffle.io](http://waffle.io) and show an issue based chart. 
+
+**Note:** It would be a good idea to add an extra repository for things are not issues maybe 
+
+Badges like [![Stories in Ready](https://badge.waffle.io/Student007/nodedemoapp.png?label=ready&title=Ready)](https://waffle.io/Student007/nodedemoapp)
+[![Stories in Progress](https://badge.waffle.io/Student007/nodedemoapp.png?label=progress&title=Progress)](https://waffle.io/Student007/nodedemoapp)
+came from Waffle.io same as project metrics based on issue labels (what can be added by your individual needs):
+
+[![Throughput Graph](https://graphs.waffle.io/Student007/koa-sub-domain/throughput.svg)](https://waffle.io/Student007/koa-sub-domain/metrics)
